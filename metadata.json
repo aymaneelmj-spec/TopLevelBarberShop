@@ -1,0 +1,5 @@
+{
+  "name": "توب ليفل باربر شوب - Top Level BarberShop",
+  "description": "Professional Barbershop website with language detection, FAQ, reviews, photos, and a Gemini-powered booking chatbot.",
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
