@@ -74,7 +74,7 @@ function GallerySection() {
     return () => cancelAnimationFrame(animationFrameId);
   }, [isPaused]);
 
-  const images = [1, 2, 3, 4, 5, 6, 7].map(num => `/gallery/${num}.jpg`);
+  const images = [1, 2, 3, 4, 5, 6, 7].map(num => `/gallery/${num}.png`);
 
   return (
     <section id="gallery" className="py-24 bg-zinc-900 border-y border-zinc-800">
