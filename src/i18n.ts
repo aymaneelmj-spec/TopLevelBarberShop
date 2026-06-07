@@ -4,7 +4,7 @@ import { initReactI18next } from 'react-i18next';
 const resources = {
   en: {
     translation: {
-      "Welcome": "Welcome to Gentle Hands BarberShop",
+      "Welcome": "Welcome to Top Level BarberShop",
       "Tagline": "Premium Grooming & Style in Saudi Arabia",
       "BookNow": "Book Appointment",
       "Services": "Our Services",
